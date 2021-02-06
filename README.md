@@ -6,4 +6,4 @@ The IEEE SSCI Paper is "ieee_derek_alex.pdf" on "Distributed Evolution Strategie
 
 Update 2/5/2021: The IEEE SSCI Paper has been published and is accessible at this location: https://ieeexplore.ieee.org/document/9308334/references#references
 
-The IKE CSCE Paper is "IKE_derek.pdf" on "A Development & Evaluation of a Machine Learning Based Value Investing Methodology."
+The IKE CSCE Paper is "IKE_derek_paper.pdf" on "A Development & Evaluation of a Machine Learning Based Value Investing Methodology."
